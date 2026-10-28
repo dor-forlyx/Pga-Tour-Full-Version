@@ -256,4 +256,4 @@ This repository serves as the official landing page for PGA TOUR 2K25. The softw
 **Get the most recent version of PGA TOUR 2K25 today!**
 
 ---
-**Last updated:** 2026-10-28 01:06:58 UTC
+**Last updated:** 2026-10-28 08:14:51 UTC
